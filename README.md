@@ -7,4 +7,5 @@ mkdir build
 cd build
 cmake ..
 make
-./main <camera id> <fps>```
+./main <camera id> <fps>
+```
